@@ -3,7 +3,14 @@ Style Sync is a visionary fashion platform designed to redefine your fashion exp
 
 Project demo link: https://lemon-pond-0aae85700.4.azurestaticapps.net/
 
+Watch the demo video must because in which I have explain all that things,
+some time Microsoft azure deploy link not supporting php integration,
+So for fixing it I used phpmyadmin it is working only on visual studio code editor or on php localhost server not on Microsoft azure website.
+
  Project demo video link: https://youtu.be/cOWsrRLXMD0
+ I am working on it and I shall definitely solve it.
+
+ Some of alternative can be used for it like AWS, heroku etc.
 
 ![Style-Sync - Cloths   accessories which sync with your Style  and 3 more pages - Krishna_Star - Microsoft​ Edge 20-11-2023 23_21_00](https://github.com/MeKrishnaKumar/Style-Sync/assets/127874689/f6cbc435-c61d-44fc-9beb-e7788b21827b)
 ![Style-Sync - Cloths   accessories which sync with your Style  and 3 more pages - Krishna_Star - Microsoft​ Edge 20-11-2023 23_21_13](https://github.com/MeKrishnaKumar/Style-Sync/assets/127874689/fd4f2e3c-294e-44bf-adfa-edf453ecd79f)
