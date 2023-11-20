@@ -1,8 +1,9 @@
 # Style-Sync
 Style Sync is a visionary fashion platform designed to redefine your fashion experience. Our core idea is to seamlessly synchronize your unique style preferences with the fashion world, empowering you to discover, curate, and shop for clothing and accessories that truly resonate with your individuality.
 
-Project demo link:https://lemon-pond-0aae85700.4.azurestaticapps.net/
-Project demo video link:https://youtu.be/cOWsrRLXMD0
+Project demo link: https://lemon-pond-0aae85700.4.azurestaticapps.net/
+
+ Project demo video link: https://youtu.be/cOWsrRLXMD0
 
 ![Style-Sync - Cloths   accessories which sync with your Style  and 3 more pages - Krishna_Star - Microsoft​ Edge 20-11-2023 23_21_00](https://github.com/MeKrishnaKumar/Style-Sync/assets/127874689/f6cbc435-c61d-44fc-9beb-e7788b21827b)
 ![Style-Sync - Cloths   accessories which sync with your Style  and 3 more pages - Krishna_Star - Microsoft​ Edge 20-11-2023 23_21_13](https://github.com/MeKrishnaKumar/Style-Sync/assets/127874689/fd4f2e3c-294e-44bf-adfa-edf453ecd79f)
