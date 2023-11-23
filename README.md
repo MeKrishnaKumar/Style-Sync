@@ -4,8 +4,8 @@ Style Sync is a visionary fashion platform designed to redefine your fashion exp
 Project demo link: https://lemon-pond-0aae85700.4.azurestaticapps.net/
 
 Watch the demo video must because in which I have explain all that things regarding project ,
-Some time Microsoft azure deploy link not supporting php integration,
-So for fixing it I used phpmyadmin it is working only on visual studio code editor or on php localhost server not on Microsoft azure website.
+Microsoft azure deployed web site link not supporting php integration,
+For backend I used phpmyadmin it is working only on visual studio code editor or on php localhost server but not on Microsoft azure website.
 
  Project demo video link: https://youtu.be/cOWsrRLXMD0
  I am working on it and I shall definitely solve it.
